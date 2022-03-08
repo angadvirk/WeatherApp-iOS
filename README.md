@@ -6,7 +6,7 @@ Fully functional Weather App for iOS powered by https://www.tomorrow.io weather 
 1. Clone repository. 
 2. Open **'weather.xcodeproj'**. 
 3. In Xcode, go to File > Packages > Update to Latest Package Versions.
-4. Once the packages are updated, run the app using a simulator (iPhone 11 preferred) or on your connected iOS device.
+4. Once the packages are updated, run the app using a simulator (iPhone 11 preferred) or your connected iOS device.
 
 ## What I Learned:
 * Built an iOS app using Xcode.
