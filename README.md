@@ -9,7 +9,7 @@ Fully functional Weather App for iOS powered by https://www.tomorrow.io weather 
 4. Once the packages are updated, run the app using a simulator (iPhone 11 preferred) or on your connected iOS device.
 
 ## What I Learned:
-* Building an iOS app using Xcode.
+* Built an iOS app using Xcode.
 * SwiftUI & the fundamentals of the Model-View-ViewModel Architecture Pattern. 
 * CoreLocation to ask for user's location and use it in API Calls. 
 * Calling APIs with HTTP Requests using Swift's built-in HTTP API. 
