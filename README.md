@@ -3,6 +3,8 @@ Fully functional Weather App for iOS powered by https://www.tomorrow.io weather 
 
 **Video Demo:** https://angadvirk.github.io/assets/video/weather-video.mp4 (Skip to 0:30).
 
+**Course Credits:** CS571 - Web Technologies - Fall 2021.
+
 ## Setup Instructions:
 1. Clone repository. 
 2. Open **'weather.xcodeproj'**. 
