@@ -1,5 +1,11 @@
 # WeatherApp-iOS
-Fully functional Weather App for iOS powered by https://www.tomorrow.io weather API. Node.js Backend deployed on Google AppEngine. 
+Weather App for iOS powered by https://www.tomorrow.io weather API. 
+
+The User enters a location, and the App will show weather information for that location. 
+
+The App supports adding locations as favorites for easy access.
+
+APIs have been used for Autocompletion of user search queries, Geocoding, and getting Weather Data. The API calls are made through a server built using Node.js and deployed on Google Cloud Platform's AppEngine. 
 
 **Video Demo:** https://angadvirk.github.io/assets/video/weather-video.mp4 (Skip to 0:30).
 
